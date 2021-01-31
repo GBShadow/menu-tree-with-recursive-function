@@ -4,7 +4,7 @@
 
 A simple page where I using recursive function for create a menu tree
 
-## Tecs
+## Technologies
 
 * HTML
 * CSS
@@ -15,8 +15,8 @@ A simple page where I using recursive function for create a menu tree
 clone the repository with `git clone https://github.com/GBShadow/menu-tree-with-recursive-function.git`
 and execute the file **index.html** in your browser.
 
-## Test the aplication
+## Test the application
 
-Link for test the aplication: [Menu-tree](https://gbshadow.github.io/menu-tree-with-recursive-function/)
+Link for test the application: [Menu-tree](https://gbshadow.github.io/menu-tree-with-recursive-function/)
 
 
